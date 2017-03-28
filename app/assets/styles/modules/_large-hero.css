@@ -16,7 +16,11 @@
     text-align:center;
 
     @mixin atMedium{
+<<<<<<< HEAD
       padding-top: 60px;
+=======
+      padding-top:60px;
+>>>>>>> cdf50290dd97c51e7467e73f75632e6f67926732
     }
   }
 
