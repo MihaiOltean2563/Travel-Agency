@@ -549,10 +549,6 @@ a{
   }
 }
 
-/*
-B.E.M(block, element, modifier) = a popular way of thinking about our interface
-*/
-
 .btn{
   background-color: #2f5572;
   color:#fff;
@@ -1115,15 +1111,16 @@ B.E.M(block, element, modifier) = a popular way of thinking about our interface
   display: table;
 }
 
-.primary-nav li{
+.primary-nav li {
   list-style:none;
   float:left;
-  padding-right:30px;
-  padding-top:12px;
+  padding-right: 20px;
+  padding-top:10px;
 }
 
-.primary-nav a{
+.primary-nav a {
   color:#fff;
-  font-weight:300;
   text-decoration:none;
+  font-weight:300;
+  padding: 12px 0;
 }

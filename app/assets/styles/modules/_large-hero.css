@@ -16,7 +16,7 @@
     text-align:center;
 
     @mixin atMedium{
-      padding-top:60px;
+      padding-top: 60px;
     }
   }
 
@@ -54,10 +54,3 @@
     }
   }
 }
-
-
-
-
-/*
-B.E.M(block, element, modifier) = a popular way of thinking about our interface
-*/
